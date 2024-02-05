@@ -1,0 +1,501 @@
+/* home page*/
+.a{
+    width:100%;
+    height:75%;
+}
+.b{
+    position:absolute;
+    top:10px;
+    left:15px;
+}
+.c{
+    position:fixed;
+    top:160px;
+    left:50px;
+    color:whitesmoke;
+    font-size:75px;
+    font-style:italic;
+}
+nav ul li {
+    display:inline-block;
+    margin:10px;
+    text-decoration: none;
+    
+
+}
+nav ul li a:hover{
+    color:black;
+}
+
+.d{
+    position: fixed;
+    top:25px;
+    right:25px;
+   text-decoration: none;
+    font-size: medium;
+   
+}
+a{
+    text-decoration: none;
+    color: rgb(149, 202, 202);
+    font-size:25px;
+    background-color:none;
+}
+
+
+
+/* Destination*/
+
+.destination{
+    background-color: blanchedalmond;
+}
+.f{
+    text-decoration: none;
+    color: azure;
+    font-size:25px;
+    background-color: blanchedalmond;
+    
+}
+
+.g{
+    padding-top: 10px;
+    text-align: center;
+    font-style:oblique;
+}
+.HI{
+    text-align: center;
+}
+.h{
+    text-align: center;
+}
+.i{
+    width: 60%;
+    margin-left: 250px;
+ 
+}
+.j{
+   margin-left:80px;
+   margin-right:80px;
+   font-size: 18px;
+}
+.church{
+    text-align: center;
+}
+.ch{
+    width:60%;
+    margin-left: 250px;
+}
+.chu{
+    margin-left:80px;
+   margin-right:80px;
+   font-size: 18px;
+}
+.gu{
+    text-align: center;
+}
+.GU{
+    width:60%;
+    margin-left: 250px;
+}
+.ja{
+    margin-left:80px;
+   margin-right:80px;
+   font-size: 18px;
+}
+.po{
+    text-align: center;
+}
+.zoo{
+    text-align: center;
+}
+.zoop{
+    width:60%;
+    margin-left: 250px;
+}
+.zoopa{
+    margin-left:80px;
+    margin-right:80px;
+    font-size: 18px;
+ }
+.NAJ{
+    text-align: center;
+}
+.naj{
+    width:60%;
+    margin-left: 250px;
+}
+
+.najandig{
+    margin-right:80px;
+    margin-left:80px;
+    font-size: 18px;
+}
+
+.be{
+    text-align:center;
+}
+
+.tha{
+    text-align: center;
+}
+
+.THA{
+    width:60%;
+    margin-left: 250px
+}
+
+.thabe{
+    margin-left:80px;
+    margin-right:80px;
+    font-size: 18px;
+}
+
+.kavs{
+    text-align: center;
+}
+
+.Kavs{
+    width:60%;
+    margin-left: 250px;
+}
+
+.KAVS{
+    margin-left:80px;
+    margin-right:80px;
+    font-size: 18px;
+}
+
+.sol{
+    text-align: center;
+}
+
+.Sol{
+    width:60%;
+    margin-left: 250px;
+}
+
+.solaj{
+    margin-left:80px;
+    margin-right:80px;
+    font-size: 18px;
+}
+
+.navi{
+    text-decoration: none;
+    color: azure;
+    font-size:25px;
+    
+}
+
+/* Accomodation */
+
+.navig{
+    text-decoration: none;
+    color: rgb(235, 243, 243);
+    font-size:25px;
+    background-color: blanchedalmond;
+}
+.pla{
+    margin-left:30px;
+}
+.THALBERE{
+    background-color: blanchedalmond;
+}   
+.thalata{
+    text-align:center;
+}
+.thalphoto{
+    margin-left:250px;
+}
+.trav{
+    margin-left:250px;
+    margin-right: 250px;
+    font-size:20px;
+}
+.ROOMS{
+    text-align: center;
+    padding:10px;
+}
+.ther{
+    margin-left:250px;
+    margin-right: 250px;
+    font-size:20px;
+}
+.roomsthal{
+    margin-left: 250px;
+    display:inline-block;
+}
+
+.thalspa{
+    width:25%;
+}
+.thalroom{
+    width:25%;
+}
+.thalpool{
+    width:25%;
+}
+.Amen{
+    text-align: center;
+}
+.Amens{
+    margin-left:250px;
+    margin-right: 250px;
+    font-size:18px;
+}
+.others{
+    text-align: center;
+}
+.otherse{
+    margin-left:250px;
+    margin-right: 250px;
+    font-size:18px;
+}
+.thalhut{
+    margin-left:250px;
+}
+
+
+.kavsbeachresort{
+    background-color: blanchedalmond;
+}
+.kavsbe{
+    text-align: center;
+}
+.kavsre{
+    margin-left:250px;
+    width:60%;
+}
+.kavthis{
+    margin-left:250px;
+    margin-right: 250px;
+    font-size:18px;
+}
+.kavslo{
+    margin-left:250px;
+    margin-right: 250px;
+    font-size:18px
+}
+.KAVSPIC{
+    display:inline-block;
+    margin-left: 250px;
+}
+.kavsro1{
+    width:25%;
+}
+.kavsro2{
+    width:25%;
+}
+.kavsro3{
+    width:25%;
+}
+
+.kavsif{
+    margin-left:250px;
+    margin-right: 250px;
+    font-size:18px
+}
+.kavsroom{
+    display:inline-block;
+    margin-left: 250px;
+}
+.kavsroom2{
+    width: 25%;
+}
+.kavsroom1{
+    width:25%;
+}
+.kavsroom3{
+    width:25%;
+}
+
+.KAVSROOMRATE{
+    background-color: rgb(131, 122, 122);
+    color: azure;
+    margin-left:250px;
+    margin-right: 250px;
+}
+
+.MAHI-MAHI{
+    background-color: blanchedalmond;
+}
+
+.MAHI{
+    text-align: center;
+}
+.MAHIM{
+    margin-left: 250px;
+    width:830px;
+}
+
+.explore{
+    background-color: beige;
+
+}
+
+.mahirooms{
+    display:inline-block;
+    margin-left: 250px;
+}
+.mahiroom1{
+    width: 25%;
+}
+.mahiroom2{
+    width: 25%;
+}
+.mahiroom3{
+    width: 25%;
+}
+.mahiroom4{
+    width: 25%;
+}
+.roomsprice{
+    background-color: rgb(131, 122, 122);
+    color: azure;
+    margin-left:250px;
+    margin-right: 250px;
+}
+
+/*Transportation*/
+.transportation{
+    padding-left:15px;
+    background-color: blanchedalmond;
+}
+
+.highway{
+    width:1400px;
+}
+
+.How{
+    position:absolute;
+    top: 400px;
+    left:100px;
+    font-size:50px;
+    color:rgb(187, 179, 179);
+}
+.jeepney{
+    width:620px;
+}
+
+.tricycle{
+    width:620px;
+}
+.box{
+    position:absolute;
+    top:1500px;
+    right:25px;
+}
+
+.alltransport{
+    margin-left: 250px;
+    background-color: blanchedalmond;
+    margin-right: 250px;
+}
+.habal-habal{
+    width:620px;
+    
+}
+
+
+/*about*/
+
+.about{
+    background-color: blanchedalmond;
+}
+.CURRENT{
+    margin-left:250px;
+}
+
+.COUNCILOR{
+    margin-left:250px;
+}
+
+.ELECTED{
+    margin-left:250px;
+}
+
+.useful{
+    margin-left:250px;
+}
+
+/*DELICACIES*/
+
+
+
+.FSPZ{
+    background-color:blanchedalmond;
+}
+
+.TORTA{
+    width:600px;
+}
+
+.LECHON{
+    width:600px;
+}
+
+.PUTOLANSON{
+    width:600px;
+}
+
+.CASAVA{
+    width:600px;
+}
+
+.BIKO{
+    width:600px;
+}
+
+.FOODS{
+    margin-left: 300px;
+}
+
+.DEL{
+   padding-left: 15px;
+   background-color: blanchedalmond;
+   
+}
+
+/*DEVELOPER*/
+
+.detel{
+    margin-left:8%;
+    margin-top: 15%;
+}
+
+.detel h1{
+    font-size: 50px;
+    color:#212121;
+    margin-bottom: 20px;
+}
+
+span{
+    color:orange;
+}
+
+.detel p{
+    color:#555;
+    line-height: 22px;
+}
+
+.styleimage{
+    width:45%;
+    height:80%;
+    position:absolute;
+    bottom:0;
+    right:100px;
+}
+
+.styleimage img{
+    height:100%;
+    position:absolute;
+    left:50%;
+    bottom:0;
+    transform: translate(-50%);
+    transition: bottom 1s, left 1s;
+}
+
+.mypic{
+    border-radius:50% ;
+}
+
